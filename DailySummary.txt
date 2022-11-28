@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<!--The following token places the object name in the title bar of the
+Web browser.-->
+<TITLE><!--AccessTemplate_Title--></TITLE>
+</HEAD>
+<!--The following HTML tag creates a different background color than the Web
+browser default.-->
+<BODY BACKGROUND = "sky_blue.gif">
+<!--The following token places all object output inside the <BODY> tag.-->
+<!--AccessTemplate_Body-->
+</BODY>
+<BR><BR>
+</HTML>
+
